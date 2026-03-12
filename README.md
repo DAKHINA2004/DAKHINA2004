@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">
+Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> I'm Dakhina Mohanta
+</h1>
+<h3 align="center">Passionate Front-End Developer | MERN Stack | HTML • CSS</h3>
 
-<!--
-**DAKHINA2004/DAKHINA2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Building modern web interfaces | ⚡ Clean UI & responsive design | 💻 Web enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+Passionate **Front-End Developer** who loves creating modern, responsive, and user-friendly web applications using **HTML, CSS, and MERN stack technologies**.
+
+I enjoy turning ideas into **beautiful, interactive web experiences** and continuously improving my skills in modern web development.
+
+- 🌍 Based in **India**
+- ✉️ Email: **litunk83@gmail.com**
+- 🧠 Currently learning **Advanced Frontend Development & MERN Stack**
+- 🤝 Open to collaborate on **Frontend Projects, Web Apps, MERN Applications**
+- 💬 Ask me about **clean UI design & responsive websites**
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,bootstrap,tailwind" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dakhinamohanta&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png"/>
+
+</p>
+
+---
+
+🔥 *Passionate developer crafting modern web experiences with clean and powerful code.*
