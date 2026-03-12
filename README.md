@@ -37,11 +37,11 @@ I enjoy turning ideas into **beautiful, interactive web experiences** and contin
 
 <p align="center">
 
-<a href="#">
+<a href="https://github.com/DAKHINA2004">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/dakhina-mohanta-20aa1b2a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
