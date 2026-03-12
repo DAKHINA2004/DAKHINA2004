@@ -53,7 +53,7 @@ I enjoy turning ideas into **beautiful, interactive web experiences** and contin
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dakhinamohanta&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DAKHINA2004&theme=tokyonight" />
 
 </p>
 
